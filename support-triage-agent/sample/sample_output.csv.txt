@@ -1,0 +1,4 @@
+ticket_id,request_type,product_area,action,response
+0,account_access,hackerrank,reply,This appears to be an account access issue related to HackerRank. Please refer to official support documentation.
+1,billing,visa,escalate,This issue requires assistance from the official support team. Please contact support.
+2,bug,claude,reply,This appears to be a bug issue related to Claude. Please refer to official support documentation.

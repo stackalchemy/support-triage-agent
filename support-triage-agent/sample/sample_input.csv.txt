@@ -1,0 +1,4 @@
+Issue,Subject,Company
+"I forgot my password, how do I reset it?",Password reset,HackerRank
+"My Visa card was charged twice",Double charge,Visa
+"Claude is not responding to my queries",System issue,Claude
